@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, World!");
 
 var a = 5;
+
+var b = 6;
